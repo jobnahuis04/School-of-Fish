@@ -1,0 +1,11 @@
+# CLion / IDE settings
+.idea/
+.vscode/
+cmake-build-*/
+
+# Build outputs
+build/
+bin/
+*.exe
+*.o
+*.obj
